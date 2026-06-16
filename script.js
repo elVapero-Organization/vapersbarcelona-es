@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             this.style.display = 'flex';
             this.style.alignItems = 'center';
             this.style.justifyContent = 'center';
-            this.alt = this.alt || 'Product Image';
+            this.alt = this.alt || 'Imagen del modelo';
         });
     });
 });
